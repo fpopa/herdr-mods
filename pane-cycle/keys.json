@@ -1,0 +1,6 @@
+{
+  "global": {
+    "cmd-]": "mod.open:pane-next",
+    "cmd-[": "mod.open:pane-prev"
+  }
+}
